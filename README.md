@@ -3,19 +3,21 @@
 A command-line interface for accessing MLB statistics and information, inspired by `kubectl` and `k9s`.
 
 ## Screenshots
-
+#### Team List View
 ![alt text](image.png)
 
 <br>
 
+#### Player List View
 ![alt text](image-1.png)
 
 <br>
 
+#### Stats View
 ![alt text](image-2.png)
-
 <br>
 
+#### Standings View
 ![alt text](image-3.png)
 
 ## Features
