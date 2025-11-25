@@ -4,21 +4,21 @@ A command-line interface for accessing MLB statistics and information, inspired 
 
 ## Screenshots
 #### Team List View
-![alt text](image.png)
+![alt text](/images/image.png)
 
 <br>
 
 #### Player List View
-![alt text](image-1.png)
+![alt text](/images/image-1.png)
 
 <br>
 
 #### Stats View
-![alt text](image-2.png)
+![alt text](/images/image-2.png)
 <br>
 
 #### Standings View
-![alt text](image-3.png)
+![alt text](/images/image-3.png)
 
 ## Features
 
